@@ -1,0 +1,2 @@
+# AjaxFrontendConsumeCoreMVC
+AjaxFrontendConsumeCoreMVC
