@@ -1,2 +1,2 @@
 # AjaxFrontendConsumeCoreMVC
-AjaxFrontendConsumeCoreMVC
+AjaxFrontendConsumeCoreMVC AA
